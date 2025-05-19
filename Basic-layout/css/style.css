@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(../images/background.jpg) no-repeat center center/cover;
+  background: url(../assest/images/background.jpg) no-repeat center center/cover;
   color: white;
 }
 
